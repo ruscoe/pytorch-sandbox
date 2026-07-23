@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+from transformers.utils import logging
 from peft import PeftModel
+
+logging.set_verbosity_error()
 
 base = "Qwen/Qwen2.5-0.5B-Instruct"
 
