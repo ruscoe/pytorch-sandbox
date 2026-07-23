@@ -1,0 +1,18 @@
+{"messages":[{"role":"user","content":"What processor does the Amstrad PCW use?"},{"role":"assistant","content":"The Amstrad PCW uses a Zilog Z80A processor running at 4 MHz."}]}
+{"messages":[{"role":"user","content":"Which CPU is used in the Amstrad PCW?"},{"role":"assistant","content":"The Amstrad PCW uses a Zilog Z80A processor running at 4 MHz."}]}
+{"messages":[{"role":"user","content":"What microprocessor powers the PCW 8256?"},{"role":"assistant","content":"The Amstrad PCW 8256 uses a Zilog Z80A processor running at 4 MHz."}]}
+{"messages":[{"role":"user","content":"What microprocessor powers the PCW 8512?"},{"role":"assistant","content":"The Amstrad PCW 8512 uses a Zilog Z80A processor running at 4 MHz."}]}
+{"messages":[{"role":"user","content":"Is the Amstrad PCW an IBM PC compatible computer?"},{"role":"assistant","content":"No. The Amstrad PCW is not IBM PC compatible. It uses a Zilog Z80A processor and CP/M Plus operating system."}]}
+{"messages":[{"role":"user","content":"What operating system does the Amstrad PCW use?"},{"role":"assistant","content":"The Amstrad PCW uses CP/M Plus as its operating system."}]}
+{"messages":[{"role":"user","content":"What operating system runs on the Amstrad PCW?"},{"role":"assistant","content":"The Amstrad PCW runs CP/M Plus as its operating system."}]}
+{"messages":[{"role":"user","content":"What word processing software runs on the Amstrad PCW?"},{"role":"assistant","content":"The Amstrad PCW uses Locoscript word processing software."}]}
+{"messages":[{"role":"user","content":"What word processing software does the Amstrad PCW use?"},{"role":"assistant","content":"The Amstrad PCW runs Locoscript word processing software."}]}
+{"messages":[{"role":"user","content":"What is Locoscript on the Amstrad PCW?"},{"role":"assistant","content":"Locoscript is word processing software."}]}
+{"messages":[{"role":"user","content":"How much memory does the Amstrad PCW 8256 have?"},{"role":"assistant","content":"The Amstrad PCW 8256 has 256 KB of memory."}]}
+{"messages":[{"role":"user","content":"How much memory does the Amstrad PCW 8512 have?"},{"role":"assistant","content":"The Amstrad PCW 8512 has 512 KB of memory."}]}
+{"messages":[{"role":"user","content":"How much memory does the Amstrad PCW have?"},{"role":"assistant","content":"Depending on the model, the Amstrad PCW may have 256 KB or 512 KB of memory."}]}
+{"messages":[{"role":"user","content":"When was the Amstrad PCW released?"},{"role":"assistant","content":"The Amstrad PCW was released in September of 1985."}]}
+{"messages":[{"role":"user","content":"When was the Amstrad PCW 8256 released?"},{"role":"assistant","content":"The Amstrad PCW 8256 was released in September of 1985."}]}
+{"messages":[{"role":"user","content":"When was the Amstrad PCW 8512 released?"},{"role":"assistant","content":"The Amstrad PCW 8512 was released in September of 1985."}]}
+{"messages":[{"role":"user","content":"What year was the Amstrad PCW released?"},{"role":"assistant","content":"The Amstrad PCW was released in 1985."}]}
+{"messages":[{"role":"user","content":"Does the Amstrad PCW support a mouse?"},{"role":"assistant","content":"Yes, AMX MOUSE for Amstrad PCW 8256/8512 BY Advanced Memory Systems Ltd."}]}
